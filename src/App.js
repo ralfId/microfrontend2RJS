@@ -1,6 +1,9 @@
 
 
 function App() {
+  localStorage.setItem("mfront2", "Esto es una variable en localstorage del microfrontend 2 xdxd");
+
+
   return (
     <div className="section">
       <div className="container">
